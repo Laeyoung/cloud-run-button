@@ -8,8 +8,12 @@ click.
 
 Try it out with a "hello, world" Go application ([source](https://github.com/GoogleCloudPlatform/cloud-run-hello)):
 
-[![Run on Google
-Cloud](https://storage.googleapis.com/cloudrun/button.svg)](https://console.cloud.google.com/cloudshell/editor?shellonly=true&cloudshell_image=gcr.io/cloudrun/button&cloudshell_git_repo=https://github.com/GoogleCloudPlatform/cloud-run-hello.git)
+### No query string
+
+[![Run on Google Cloud](https://storage.googleapis.com/cloudrun/button.svg)](https://deploy.cloud.run/)
+
+### with git_repo query string
+[![Run on Google Cloud](https://storage.googleapis.com/cloudrun/button.svg)](https://deploy.cloud.run/?git_repo=https://github.com/GoogleCloudPlatform/cloud-run-hello.git)
 
 ### Demo
 [![Cloud Run Button Demo](assets/cloud-run-button.png)](https://storage.googleapis.com/cloudrun/cloud-run-button.gif)

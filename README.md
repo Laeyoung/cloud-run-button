@@ -15,6 +15,10 @@ Try it out with a "hello, world" Go application ([source](https://github.com/Goo
 ### with git_repo query string
 [![Run on Google Cloud](https://storage.googleapis.com/cloudrun/button.svg)](https://deploy.cloud.run/?git_repo=https://github.com/GoogleCloudPlatform/cloud-run-hello.git)
 
+### with ainize-run-example git_repo
+[![Run on Google Cloud](https://storage.googleapis.com/cloudrun/button.svg)](https://deploy.cloud.run/?git_repo=https://github.com/ainize-dev/ainize-run-example)
+
+
 ### Demo
 [![Cloud Run Button Demo](assets/cloud-run-button.png)](https://storage.googleapis.com/cloudrun/cloud-run-button.gif)
 
